@@ -1,0 +1,22 @@
+@media screen and (min-width: 0) {
+    .cabecalho {
+        height: 100px;
+        display: block;
+        height: fit-content;
+        text-align: center;
+    }
+
+    .menu__lista {
+        justify-content: center;
+
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cabecalho {
+        display: flex;
+        height: 80px;
+
+    }
+
+}

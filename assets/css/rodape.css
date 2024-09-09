@@ -1,0 +1,18 @@
+.rodape{
+    height: 50px;
+    background: #bfbfbf;
+    color: #fdfdfd;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-align: center;
+}
+
+.rodape__link-contato{
+    text-decoration: none;
+    color: #585656;
+}
+.copy{
+    color: rgb(208, 208, 208);
+}
+
+
